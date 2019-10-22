@@ -1,0 +1,23 @@
+#main {
+    background-color: #eee;
+}
+#title, p, #more-info {
+    text-align: center;
+}
+#img-div {
+    text-align: center;
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#tribute-info {
+    position: relative;
+    max-width: 30%;
+    margin-left: 35%;
+}
+
+h3 {
+    text-align: center;
+}
